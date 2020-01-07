@@ -1,0 +1,20 @@
+selenium_pavan
+===========================================================
+Application URL:http://admin-demo.nopcommerce.com/
+
+Admin email: admin@yourstore.com 
+Admin password: admin
+============================================================
+============================================================
+how to push the code by gitbase
+
+ls
+cd 
+git init
+git remote add origin <gitlink>
+git remote -v
+git add .
+git commit -m "first commit"
+git push origin master
+git help
+=============================================================
